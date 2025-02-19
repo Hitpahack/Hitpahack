@@ -40,7 +40,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hitpahack&show_icons=true&locale=en&layout=compact" alt="hitpahack" width="35%" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hitpahack&show_icons=true&locale=en" alt="hitpahack"  /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hitpahack&theme=dark&hide_border=false" alt="hitpahack" /></p>
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=hitpahack&theme=dark&hide_border=false" alt="hitpahack" /></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hitpahack/hitpahack/output/github-snake-dark.svg" />
