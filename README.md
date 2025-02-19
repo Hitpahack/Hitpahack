@@ -40,7 +40,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hitpahack&show_icons=true&locale=en&layout=compact" alt="hitpahack" width="35%" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hitpahack&show_icons=true&locale=en" alt="hitpahack"  /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hitpahack&theme=dark" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hitpahack&theme=dark" alt="Hitpahack" /></a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hitpahack/hitpahack/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hitpahack/hitpahack/output/github-snake.svg" />
